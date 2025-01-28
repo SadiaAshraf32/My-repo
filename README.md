@@ -1,2 +1,2 @@
 # My-repo
-Knowledge gaining 
+Knowledge gaining about programming 
